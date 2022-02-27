@@ -1,6 +1,6 @@
 # Ecopoints manager
 
-*Ver em [Português](https://github.com/DiogoMarques2003/GestorCamaraEcopontosCamara/blob/master/Readme.md)* 
+*Ver em [Português](https://github.com/DiogoMarques2003/GestorEcopontosCamara)* 
 
 ## Explanation of work:
 This was the final project made for the Imperative Programming course.
