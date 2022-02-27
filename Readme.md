@@ -1,6 +1,6 @@
 # Gestor de ecopontos
 
-*View in [English](https://github.com/DiogoMarques2003/GestorCamaraEcopontosCamara/blob/master/Readme-en.md)* 
+*View in [English](https://github.com/DiogoMarques2003/GestorEcopontosCamara/blob/master/Readme-en.md)* 
 
 ## Explicação do trabalho:
 Este foi o projeto final feito para a disciplina de Programação Imperativa.
